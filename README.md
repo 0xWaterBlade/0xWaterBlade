@@ -373,17 +373,17 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=0xWaterBlade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-        alt="GitHub Statistics"
-        width="100%"
-      />
+  src="./profile/stats.svg"
+  alt="GitHub Statistics"
+  width="100%"
+/>
     </td>
     <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xWaterBlade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        alt="Most Used Languages"
-        width="100%"
-      />
+     <img
+  src="./profile/top-langs.svg"
+  alt="Most Used Languages"
+  width="100%"
+/>
     </td>
   </tr>
   <tr>
