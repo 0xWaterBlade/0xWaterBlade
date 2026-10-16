@@ -243,7 +243,7 @@
       </a>
     </td>
     <td width="96">
-      <a href="https://www.hackerrank.com/profile/0xwaterbladwe">
+      <a href="https://www.hackerrank.com/profile/0xwaterblade">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60" height="60" alt="HackerRank" />
         <br>HackerRank
       </a>
@@ -428,7 +428,13 @@
 
 ---
 ### 🐍 Snake Game (SVG)
-<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/0xWaterBlade/0xWaterBlade/output/snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</div>
 
 > Built with 🤍 using Markdown, GitHub API, and SVG Animations  
 > 🔧 Maintained by Yusuf Muhammad 🥷🏻
