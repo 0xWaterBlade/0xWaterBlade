@@ -29,7 +29,7 @@
 </h2>
 
 ---
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Linux animation" /> My Tech Stack, Tools & Skills
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Tech Stack, Tools & Skills
 
 <table align="center">
   <tr align="center">
@@ -262,7 +262,7 @@
 </table>
 
 ---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" alt="Social animation" /> Social Media
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > Social Media
 
 <table align="center">
   <tr>
@@ -365,7 +365,7 @@
 </table>
 
 ---
-### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30" alt="Dancing parrot" /> GitHub Analytics
+### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> GitHub Analytics
 
 <table>
   <tr>
