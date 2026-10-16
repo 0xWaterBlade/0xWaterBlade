@@ -388,27 +388,27 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img
-        src="https://streak-stats.demolab.com/?user=0xWaterBlade&theme=tokyonight&hide_border=true"
-        alt="GitHub Contribution Streak"
-        width="75%"
-      />
+<img
+  src="./profile/streak.svg"
+  alt="GitHub Contribution Streak"
+  width="75%"
+/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xWaterBlade&theme=tokyonight&utcOffset=3"
-        alt="Productive Time"
-        width="100%"
-      />
+<img
+  src="./profile-summary-card-output/tokyonight/productive-time.svg"
+  alt="Productive Time"
+  width="100%"
+/>
     </td>
     <td align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xWaterBlade&theme=tokyonight"
-        alt="GitHub Profile Summary"
-        width="100%"
-      />
+<img
+  src="./profile-summary-card-output/tokyonight/profile-details.svg"
+  alt="GitHub Profile Summary"
+  width="100%"
+/>
     </td>
   </tr>
 </table>
