@@ -29,8 +29,7 @@
 </h2>
 
 ---
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Tech Stack Tools & Skills
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Linux animation" /> My Tech Stack, Tools & Skills
 
 <table align="center">
   <tr align="center">
@@ -263,8 +262,7 @@
 </table>
 
 ---
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > Social Media
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" alt="Social animation" /> Social Media
 
 <table align="center">
   <tr>
@@ -315,7 +313,7 @@
 
 
 ---
-## Featured Projects
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" alt="Coding animation" /> Featured Projects
 
 <table>
   <tr>
@@ -367,7 +365,7 @@
 </table>
 
 ---
-### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> GitHub Analytics
+### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30" alt="Dancing parrot" /> GitHub Analytics
 
 <table>
   <tr>
@@ -398,14 +396,15 @@
   <tr>
     <td align="center">
 <img
-  src="./profile-summary-card-output/tokyonight/productive-time.svg"
+  src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
   alt="Productive Time"
   width="100%"
 />
-    </td>
+
+  </td>
     <td align="center">
 <img
-  src="./profile-summary-card-output/tokyonight/profile-details.svg"
+  src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
   alt="GitHub Profile Summary"
   width="100%"
 />
@@ -414,8 +413,7 @@
 </table>
 
 ---
-
-### 👁️‍🗨️ Profile Views
+### 👁️ Profile Views
 
 <div align="center">
   <a href="https://hits.sh/github.com/0xWaterBlade">
