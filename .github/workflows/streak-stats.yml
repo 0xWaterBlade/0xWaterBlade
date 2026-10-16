@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
