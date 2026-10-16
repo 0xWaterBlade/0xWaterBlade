@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/assets/40190772/8f0accf5-b4a7-497f-98f2-638566b68b3b" alt="Full-time Ninja" />
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" alt="Full-time Ninja" />
 </div>
 
 <div align="center">
