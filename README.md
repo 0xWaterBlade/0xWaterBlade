@@ -315,18 +315,103 @@
 
 
 ---
+## Featured Projects
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> My Stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Zero Trace Imperium</h3>
+      <p>
+        An isolated offensive security lab covering Linux,
+        networking, web security, attack simulation, and
+        defensive controls.
+      </p>
+      <p>
+        <b>Focus:</b> Kali Linux, Nmap, DVWA, Wireshark,
+        traffic analysis, and security testing.
+      </p>
+      <a href="https://github.com/0xWaterBlade/Zero-Trace-Imperium">
+        View Repository
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DoS & DDoS Attack Lab</h3>
+      <p>
+        A controlled lab for traffic generation, packet
+        analysis, attack simulation, and defensive observations.
+      </p>
+      <p>
+        <b>Focus:</b> Wireshark, TCP/IP, Bash, Python,
+        and defensive monitoring.
+      </p>
+      <a href="https://github.com/0xWaterBlade/dos-ddos-lab">
+        View Repository
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Global Corp Network</h3>
+      <p>
+        A network simulation project covering routing,
+        redundancy, access control, and enterprise network design.
+      </p>
+      <p>
+        <b>Focus:</b> OSPF, EIGRP, RIPv2, HSRP, and ACLs.
+      </p>
+      <a href="https://github.com/0xWaterBlade/Global-Corp-Network">
+        View Repository
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+---
+### <img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> GitHub Analytics
 
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=0xWaterBlade&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=0xWaterBlade&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xWaterBlade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Most Used Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=0xWaterBlade&theme=tokyonight&hide_border=true"
+        alt="GitHub Contribution Streak"
+        width="75%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xWaterBlade&theme=tokyonight&utcOffset=3"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xWaterBlade&theme=tokyonight"
+        alt="GitHub Profile Summary"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -334,8 +419,8 @@
 
 <div align="center">
   <a href="https://hits.sh/github.com/0xWaterBlade">
-    <img alt="Hits" src="https://hits.sh/github.com/yusuf-husayn.svg?style=flat-square&label=Profile%20Views&color=0e75b6">
-  </a>
+  <img src="https://hits.sh/github.com/0xWaterBlade.svg?style=flat-square&label=Profile%20Views&color=0e75b6" alt="Profile Views">
+</a>
 </div>
 
 
@@ -348,4 +433,13 @@
 > Built with 🤍 using Markdown, GitHub API, and SVG Animations  
 > 🔧 Maintained by Yusuf Muhammad 🥷🏻
 
+---
+<div align="center">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+
+</div>
