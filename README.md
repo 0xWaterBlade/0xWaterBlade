@@ -37,7 +37,7 @@
   </tr>
   <tr align="center">
     <td width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" height="60" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" alt="C++" />
       <br>C++
     </td>
     <td width="96">
@@ -45,7 +45,7 @@
       <br>C
     </td>
     <td width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python" />
       <br>Python
     </td>
     <td width="96">
@@ -208,7 +208,7 @@
   </tr>
   <tr align="center">
     <td width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" width="60" height="60" alt="GitHub" />
       <br>GitHub
     </td>
     <td width="96">
